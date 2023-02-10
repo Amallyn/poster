@@ -14,7 +14,11 @@ poster -w poster_width -o offset_between_images -n number of images per row imag
 ```
 Example for a 1022 width poster, 8 pixels offset between images, 3 images per row.
 ```
+Linux
 poster -w 1022 -o 8 -n 3 images poster.jpg
+
+Windows
+poster.exe -w 1022 -o 8 -n 3 images poster.jpg
 ```
 
 # Notes
