@@ -12,7 +12,7 @@
 ```
 poster -w poster_width -o offset_between_images -n number of images per row image_folder poster_image_name.jpg
 ```
-##Example
+## Example
 
 - For a 1022 width poster, 8 pixels offset between images, 3 images per row.
 - Linux
